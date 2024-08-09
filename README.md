@@ -1,22 +1,16 @@
-<img src="https://i.imgur.com/G6xDxTS.png" />
-<h1 align="center">Hi 👋, I'm Thiago Lima or Thi Code</h1>
-<h3 align="center">FullStack Developer, Tech Instructor & Youtuber</h3>
-
-- 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news)
+<h1 align="center">Hi 👋, I'm Deivid Carvalho Moura</h1>
+<h3 align="center">FullCycle Developer & Data Analyst</h3>
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **NodeJs, ReactJs, SQL and noSQL**
+- 💬 Ask me about **Python, FastAPI, SQL and noSQL**
 
-- 📫 How to reach me **docencia.thiago@gmail.com**
+- 📫 How to reach me **deividcarvalhomoura@gmail.com**
 
-- ⚡ Fun fact **I love working with carpentry**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
-<a href="https://instagram.com/thi.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@thicode.channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thicode.channel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devdeividmoura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
 </p>
 <hr/>
 <h3>Current Languages and Tools</h3>
@@ -25,19 +19,20 @@
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          alt="python"
+          width="40"
           height="40"
-          alt="javascript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> Python
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          src="https://github.com/detain/svg-logos/blob/master/svg/f/fastapi-1.svg"
           height="40"
-          alt="typescript logo"
+          alt="fastapi"
         />
-        <img width="12" /> Typescript
+        <img width="12" /> FastAPI
       </td>
       <td>
         <img
