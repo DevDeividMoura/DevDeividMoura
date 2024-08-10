@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deivid Carvalho Moura</h1>
 <h3 align="center">FullCycle Developer & Data Analyst</h3>
 
+<p style="text-align: justify;"> Entusiasta e curioso por Técnologia desde pequeno. Adoro aprender, explorar e descobrir novos desafios. Profissional empenhado, com foco em resultados e sempre buscando o aprimoramento pessoal e profissional.</p>
+
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Python, FastAPI, SQL and noSQL**
+- 💬 Ask me about **Python, Data Mining, Process Automation** and more.
 
 - 📫 How to reach me **deividcarvalhomoura@gmail.com**
 
@@ -19,7 +21,7 @@
     <tr>
       <td>
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          src="https://skillicons.dev/icons?i=python"
           alt="python"
           width="40"
           height="40"
@@ -28,7 +30,7 @@
       </td>
       <td>
         <img
-          src="https://github.com/detain/svg-logos/blob/master/svg/f/fastapi-1.svg"
+          src="https://skillicons.dev/icons?i=fastapi"
           height="40"
           alt="fastapi"
         />
@@ -36,73 +38,40 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          height="40"
-          alt="nodejs logo"
-        />
-        <img width="12" /> Node.js
-      </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-          alt="nestjs"
+          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+          alt="flask"
           width="40"
           height="40"
         />
-        <img width="12" /> NestJS
+        <img width="12" /> Flask
+      </td>
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=django"
+          height="40"
+          alt="django"
+        />
+        <img width="12" /> Django
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg"
+          alt="poetry"
+          height="40"
+        />
+        <img width="12" /> Poetry
       </td>
     </tr>
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
           height="40"
-          alt="react logo"
+          alt="mysql logo"
         />
-        <img width="12" /> React
+        <img width="12" />Mysql
       </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-          height="40"
-          alt="tailwindcss logo"
-        />
-        <img width="12" /> Tailwindcss
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          height="40"
-          alt="git logo"
-        />
-        <img width="12" /> Git
-      </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=linux"
-          height="40"
-          alt="linux logo"
-        />
-        <img width="12" /> Linux
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
-        />
-        <img width="12" /> Docker
-      </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
@@ -113,11 +82,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
           height="40"
-          alt="redis logo"
+          alt="sqlite logo"
         />
-        <img width="12" /> Redis
+        <img width="12" /> SQLite
       </td>
       <td>
         <img
@@ -129,7 +98,41 @@
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+          height="40"
+          alt="redis logo"
+        />
+        <img width="12" /> Redis
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img
+          src="https://skillicons.dev/icons?i=linux"
+          height="40"
+          alt="linux logo"
+        />
+        <img width="12" /> Linux
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="40"
+          alt="git logo"
+        />
+        <img width="12" /> Git
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="40"
+          alt="docker logo"
+        />
+        <img width="12" /> Docker
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
           height="40"
           alt="vscode logo"
         />
@@ -137,11 +140,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
           height="40"
-          alt="jest logo"
+          alt="github actions logo"
         />
-        <img width="12" /> Jest
+        <img width="12" /> GitHub Actions
       </td>
     </tr>
   </tbody>
@@ -153,11 +156,188 @@
     <tr>
       <td>
         <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          alt="python"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Python
+      </td>
+            <td>
+        <img
+          src="https://skillicons.dev/icons?i=fastapi"
+          height="40"
+          alt="fastapi"
+        />
+        <img width="12" /> FastAPI
+      </td>
+      <td>
+        <img
+          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+          alt="flask"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Flask
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=django"
+          height="40"
+          alt="django"
+        />
+        <img width="12" /> Django
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg"
+          alt="poetry"
+          height="40"
+        />
+        <img width="12" /> Poetry
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
+          alt="python"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Selenium
+      </td>
+      <td>
+        <img
+          src="./icons/BeautifuSoup.png"
+          alt="flask"
+          width="40"
+          height="40"
+        />
+        <img width="40" /> BeautifulSoup
+      </td>
+      <td>
+        <svg 
+        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" 
+        width="40"
+        height="40"
+        ><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"></path></svg>
+        <img width="12" /> HTTPX
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"
+          alt="pytest"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Pytest
+      </td>
+            <td>
+        <img
+          src="https://rye.astral.sh/static/logo.svg"
+          alt="rye"
+          height="40"
+        />
+        <img width="12" /> Rye
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+          alt="pandas"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Pandas
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+          alt="matplotlib"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Matplotlib
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+          alt="numpy"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> NumPy
+      </td>
+      <td>
+        <img
+          src="./icons/SQLAlchemy.png"
+          alt="SQLAlchemy"
+          height="40"
+        />
+        <img width="12" /> SQLAlchemy
+      </td>
+            <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+          alt="jupyter"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Jupyter
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+          height="40"
+          alt="mysql logo"
+        />
+        <img width="12" /> MySQL
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          height="40"
+          alt="postgresql logo"
+        />
+        <img width="12" /> PostgreSQL
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+          height="40"
+          alt="sqlite logo"
+        />
+        <img width="12" /> SQLite
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <img width="12" /> MongoDB
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+          height="40"
+          alt="redis logo"
+        />
+        <img width="12" /> Redis
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> JavaScript
       </td>
       <td>
         <img
@@ -165,7 +345,7 @@
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /> Typescript
+        <img width="12" /> TypeScript
       </td>
       <td>
         <img
@@ -185,7 +365,7 @@
       </td>
       <td>
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg "
           alt="nestjs"
           width="40"
           height="40"
@@ -204,12 +384,12 @@
       </td>
       <td>
         <img
-          src="https://angular.io/assets/images/logos/angular/angular.svg"
-          alt="angular"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
+          alt="svelte"
           width="40"
           height="40"
         />
-        <img width="12" /> Angular
+        <img width="12" /> Svelte
       </td>
       <td>
         <img
@@ -260,7 +440,7 @@
           height="40"
           alt="tailwindcss logo"
         />
-        <img width="12" /> Tailwindcss
+        <img width="12" /> Tailwind CSS
       </td>
       <td>
         <img
@@ -273,51 +453,15 @@
       </td>
       <td>
         <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
+          src="https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-cloud-images-uploads/7uffzv9dk4sn-3MG3mFcK1L7h5YD0Cgq36v-07b7abd2909e1389a54962bd6c3c99ed-AppsScript-title-logo_E14464A4.svg"
+          alt="google apps scripts"
           width="40"
           height="40"
         />
-        <img width="12" /> Figma
+        <img width="12" /> Google Apps Scripts
       </td>
     </tr>
     <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Python
-      </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-          alt="flask"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Flask
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Java
-      </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-          alt="spring"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Spring Boot
-      </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -326,8 +470,6 @@
         />
         <img width="12" /> Git
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://skillicons.dev/icons?i=linux"
@@ -361,16 +503,16 @@
         />
         <img width="12" /> Nginx
       </td>
+    </tr>
+    <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
           height="40"
           alt="amazonwebservices logo"
         />
         <img width="12" /> AWS
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://skillicons.dev/icons?i=github"
@@ -381,54 +523,19 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
           height="40"
-          alt="postgresql logo"
+          alt="github actions logo"
         />
-        <img width="12" /> Postgresql
+        <img width="12" /> GitHub Actions
       </td>
       <td>
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> MySQL
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-          height="40"
-          alt="redis logo"
-        />
-        <img width="12" /> Redis
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <img width="12" /> MongoDB
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
           height="40"
           alt="vscode logo"
         />
         <img width="12" /> Visual Studio Code
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-          height="40"
-          alt="jest logo"
-        />
-        <img width="12" /> Jest
       </td>
     </tr>
   </tbody>
