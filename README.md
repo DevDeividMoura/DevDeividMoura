@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deivid Carvalho Moura</h1>
 <h3 align="center">FullCycle Developer & Data Analyst</h3>
 
-<p style="text-align: justify;"> Entusiasta e curioso por Técnologia desde pequeno. Adoro aprender, explorar e descobrir novos desafios. Profissional empenhado, com foco em resultados e sempre buscando o aprimoramento pessoal e profissional.</p>
+<p style="text-align: justify;"> Enthusiast and curious about technology since childhood. I love learning, exploring, and discovering new challenges. A dedicated professional, focused on results and always striving for personal and professional improvement.</p>
 
 - 🌱 I’m currently learning **Golang**
 
