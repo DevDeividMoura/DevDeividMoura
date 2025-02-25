@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Deivid Carvalho Moura!</h1>
-<h3 align="center">FullCycle Developer & Data Analyst</h3>
+<h3 align="center">Backend Developer & Data Analyst</h3>
 
 <p style="text-align: justify;"> Enthusiast and curious about technology since childhood. I love learning, exploring, and discovering new challenges. A dedicated professional, focused on results and always striving for personal and professional improvement.</p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python, Data Mining, Process Automation** and more.
 
@@ -365,25 +365,6 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg "
-          alt="nestjs"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> NestJS
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-          height="40"
-          alt="react logo"
-        />
-        <img width="12" /> React
-      </td>
-      <td>
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
           alt="svelte"
           width="40"
@@ -391,13 +372,15 @@
         />
         <img width="12" /> Svelte
       </td>
+    </tr>
+    <tr>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=nextjs"
+          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
           height="40"
-          alt="nextjs logo"
+          alt="tailwindcss logo"
         />
-        <img width="12" /> Next.js
+        <img width="12" /> Tailwind CSS
       </td>
       <td>
         <img
@@ -414,33 +397,6 @@
           alt="css3 logo"
         />
         <img width="12" /> CSS
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-          height="40"
-          alt="webpack logo"
-        />
-        <img width="12" /> Webpack
-      </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-          alt="babel"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Babel
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-          height="40"
-          alt="tailwindcss logo"
-        />
-        <img width="12" /> Tailwind CSS
       </td>
       <td>
         <img
@@ -460,6 +416,8 @@
         />
         <img width="12" /> Google Apps Scripts
       </td>
+    </tr>
+    <tr>
     </tr>
     <tr>
       <td>
